@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Azamat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzmtMrzbkv&show_icons=true)
+
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzmtMrzbkv&layout=pie)
+-->
