@@ -1,9 +1,11 @@
 # Myrzabekov Azamat
-<!--
+
 A lifelong learner, always eager to grow and take on new challenges.
 
 - Research and Developement Software Engineer, Opt-AI Inc.
--->
+- Seoul, South Korea
+- myrzabekoffazamat@gmail.com
+
 
 <!--
 ## Career Timeline
