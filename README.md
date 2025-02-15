@@ -1,24 +1,21 @@
-### Hi there, I am Azamat Myrzabekov 👋
-
+# Myrzabekov Azamat
 <!--
-**AzmtMrzbkv/AzmtMrzbkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+A lifelong learner, always eager to grow and take on new challenges.
 -->
 
-<!--
-![Azamat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzmtMrzbkv&show_icons=true)
--->
+- Research and Developement Software Engineer, Opt-AI Inc.
 
 <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzmtMrzbkv&layout=pie)
+## Career Timeline
+
+| Year          | Role & Project                                                                                      |
+|---------------|-----------------------------------------------------------------------------------------------------|
+|               |                                                                                                     |
+
+## Personal Projects
+
+## Skills
+
+## Education
+- **BSc, Computer Science and Engineering**: Ulsan National Institute of Science and technology | Ulsan, South Korea (2019-2023)
 -->
