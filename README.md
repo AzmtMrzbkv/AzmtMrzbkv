@@ -3,7 +3,7 @@
 A lifelong learner, always eager to grow and take on new challenges.
 
 - Research and Developement Software Engineer, Opt-AI Inc.
-- <strong>🗺️</strong> Seoul, South Korea
+- 🌏 Seoul, South Korea
 - ✉️ myrzabekoffazamat@gmail.com
 
 
